@@ -1,0 +1,6 @@
+node_modules/
+.env
+.DS_Store
+*.key.json
+EMAIL OUTREACH JSON KEY.json
+email_payload.json
